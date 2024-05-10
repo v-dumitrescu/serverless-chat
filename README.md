@@ -1,2 +1,2 @@
 # serverless-chat
-A chat app using Google Firebase
+A chat app using Firebase's real-time api and authentication
